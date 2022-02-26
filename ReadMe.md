@@ -4,9 +4,9 @@ Counter readme file
 <hr>
 ## The languages that i used:
 <hr>
-- JAVASCRIPT
-- HTML
-- CSS
+- JAVASCRIPT <br>
+- HTML <br>
+- CSS <br>
 <hr>
 ## The Functionalities:
 <hr>
