@@ -10,6 +10,6 @@ Counter readme file
 <hr>
 ## The Functionalities:
 <hr>
-- counter is a JavaScript project that has three buttons each button has a function.
-- The color of the number changes depending on its value.
+- counter is a JavaScript project that has three buttons each button has a function.<br>
+- The color of the number changes depending on its value.<br>
 <hr>
